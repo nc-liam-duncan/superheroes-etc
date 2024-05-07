@@ -23,7 +23,7 @@ def get_server_health():
 
 
 @app.get("/api/superheroes")
-def get_superheroes(is_identity_secret: bool | None = None):
+def get_superheroes(is_identity_secret=None):
     db = None
     try:
         db = connect_to_db()
