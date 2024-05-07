@@ -1,0 +1,58 @@
+[
+  {
+    "alias": "Captain Marvel",
+    "real_name": "Carol Danvers",
+    "is_identity_secret": false,
+    "image_url": "https://media.gq.com/photos/5e29db3a5c5d2500088599ac/3:4/w_1982,h_2643,c_limit/captian-marvel-ii-gq-january-2020-012320.jpg",
+    "team": "Avengers"
+  },
+  {
+    "alias": "Daredevil",
+    "real_name": "Matt Murdock",
+    "is_identity_secret": true,
+    "image_url": "https://i.annihil.us/u/prod/marvel/i/mg/9/70/5bf477db514d3/clean.jpg",
+    "team": "Defenders"
+  },
+  {
+    "alias": "Squirrel Girl",
+    "real_name": "Doreen Allene Green",
+    "is_identity_secret": false,
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Unbeatable_Squirrel_Girl.jpg/250px-Unbeatable_Squirrel_Girl.jpg",
+    "team": "Avengers"
+  },
+  {
+    "alias": "Shadowcat",
+    "real_name": "Kitty Pryde",
+    "is_identity_secret": false,
+    "image_url": "https://media.aintitcool.com/media/uploads/2017/bigeyes/kitty_large.jpg",
+    "team": "X-Men"
+  },
+  {
+    "alias": "Storm",
+    "real_name": "Ororo Munroe",
+    "is_identity_secret": false,
+    "image_url": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/09/Storm-X-Men-cover-acuna.jpg",
+    "team": "X-Men"
+  },
+  {
+    "alias": "Spider-Man",
+    "real_name": "Peter Parker",
+    "is_identity_secret": true,
+    "image_url": "https://www.theaureview.com/wp-content/uploads/2020/01/539536481532422790.jpg",
+    "team": "Avengers"
+  },
+  {
+    "alias": "Power Man",
+    "real_name": "Luke Cage",
+    "is_identity_secret": false,
+    "image_url": "https://www.cnet.com/a/img/994iLeekmmhhmM1g1S6XKBe7CqU=/940x0/2016/10/02/bcbc6a42-665f-499a-bb1d-e291b6cc9b31/lukecagecrop.jpg",
+    "team": "Defenders"
+  },
+  {
+    "alias": "Beast",
+    "real_name": "Hank McCoy",
+    "is_identity_secret": false,
+    "image_url": "https://i.pinimg.com/originals/7c/4f/e2/7c4fe2259cb17692033b0e26bcdfd840.jpg",
+    "team": "X-Men"
+  }
+]

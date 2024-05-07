@@ -1,0 +1,30 @@
+[
+  {
+    "alias": "Hero 1",
+    "real_name": "Name 1",
+    "is_identity_secret": false,
+    "image_url": "superheroes.com/1",
+    "team": "Team 1"
+  },
+  {
+    "alias": "Hero 2",
+    "real_name": "Name 2",
+    "is_identity_secret": true,
+    "image_url": "superheroes.com/2",
+    "team": "Team 3"
+  },
+  {
+    "alias": "Hero 3",
+    "real_name": "Name 3",
+    "is_identity_secret": false,
+    "image_url": "superheroes.com/3",
+    "team": "Team 1"
+  },
+  {
+    "alias": "Hero 4",
+    "real_name": "Name 4",
+    "is_identity_secret": false,
+    "image_url": "superheroes.com/4",
+    "team": "Team 1"
+  }
+]
