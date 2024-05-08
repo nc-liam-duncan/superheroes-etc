@@ -68,7 +68,6 @@ def post_superhero(superhero: NewSuperhero):
         )
         new_superhero = {}
         columns = [col['name'] for col in db.columns]
-        # Need to populate new_superhero dict
         for i in range(len(inserted[0])):
             new_superhero[columns[i]] = inserted[0][i]
         return {"new_superhero": new_superhero}
